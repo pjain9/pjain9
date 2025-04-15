@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pjain9
 - 👀 I’m interested in following up on latest technologies trends.
-- 🌱 I’m currently learning HTML5, CSS, JS, REACTJS, NodeJS, TypeScript, .NetCore
-- 💞️ I’m looking to collaborate on above technologies
+- 🌱 I’m a Solution Architect.
+- 💞️ I’m can collaborate on AI & backend technologies
 - 📫 Reach me on piyushjain.sweden@gmail.com
 
 <!---
